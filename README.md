@@ -7,9 +7,9 @@
 - envelope-no3long.pagesは管理対象外ファイルに指定しており、誤って情報を書き込んだファイルをpushしないためテンプレートファイルをコピーして使用する
 ```sh
 # gitの完全な管理外に移動するため、ローカルのdocmentsにコピーする
-cp template-envelope-no3long.pages ~/Documents/envelope-no3long.pages
-
 # アプリnotesで開く
+
+cp template-envelope-no3long.pages ~/Documents/envelope-no3long.pages
 open ~/Documents/envelope-no3long.pages
 ```
 
