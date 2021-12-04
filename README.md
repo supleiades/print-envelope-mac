@@ -28,6 +28,9 @@ open ~/Documents/envelope-no3long.pages
 ### プリンターの用紙
 <img src="https://user-images.githubusercontent.com/45380191/144691414-78b89677-5329-4b11-a989-cf7a4e5170a4.png" width=400>
 
+- 下トレイ: 裏側
+<img src="https://user-images.githubusercontent.com/45380191/144692805-3e8f511d-b653-4242-9788-51ea2549d3c9.png" width=400>
+
 
 ## 備忘録
 ### 敬称
@@ -36,3 +39,7 @@ open ~/Documents/envelope-no3long.pages
 | 様  | 個人 |
 | 御中 | 団体名, 組織名, ※係の後は御中|
 | 行/宛 | 返信用封筒, 個人:宛, 団体:行 |
+
+
+### 封筒の各名称
+![image](https://user-images.githubusercontent.com/45380191/144692849-a44e7045-6e06-4451-adba-995d2e866e3c.png)
